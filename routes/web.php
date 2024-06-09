@@ -18,7 +18,7 @@ use Inertia\Inertia;
 |
 */
 
-//thọ
+//test lần 2
 Route::get('/{any}', function () {
     return File::get(public_path('index.html'));
 })->where('any', '.*');
