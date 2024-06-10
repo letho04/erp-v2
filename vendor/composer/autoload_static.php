@@ -596,6 +596,7 @@ class ComposerStaticInit82423a03ee546a200dea857a3a3157cf
         'App\\Http\\Requests\\SettingRequest' => __DIR__ . '/../..' . '/app/Http/Requests/SettingRequest.php',
         'App\\Http\\Requests\\SliderRequest' => __DIR__ . '/../..' . '/app/Http/Requests/SliderRequest.php',
         'App\\Http\\Requests\\UserRequest' => __DIR__ . '/../..' . '/app/Http/Requests/UserRequest.php',
+        'App\\Http\\Resources\\Products' => __DIR__ . '/../..' . '/app/Http/Resources/Products.php',
         'App\\Models\\Product' => __DIR__ . '/../..' . '/app/Models/Product.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',

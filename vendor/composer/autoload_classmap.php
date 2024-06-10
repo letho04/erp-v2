@@ -46,6 +46,7 @@ return array(
     'App\\Http\\Requests\\SettingRequest' => $baseDir . '/app/Http/Requests/SettingRequest.php',
     'App\\Http\\Requests\\SliderRequest' => $baseDir . '/app/Http/Requests/SliderRequest.php',
     'App\\Http\\Requests\\UserRequest' => $baseDir . '/app/Http/Requests/UserRequest.php',
+    'App\\Http\\Resources\\Products' => $baseDir . '/app/Http/Resources/Products.php',
     'App\\Models\\Product' => $baseDir . '/app/Models/Product.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
