@@ -18,11 +18,7 @@ use Inertia\Inertia;
 |
 */
 
-//test lần 2
-Route::get('/{any}', function () {
-    return File::get(public_path('index.html'));
-})->where('any', '.*');
-//
+
 //
 
 // Route::get('/', function () {
@@ -43,5 +39,8 @@ Route::get('/{any}', function () {
 //     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
 //     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 // });
-
+Route::get('/{path?}', function () {
+    return File::get(public_path('index.html'));
+})->where('path', '.*');
 require __DIR__ . '/auth.php';
+
