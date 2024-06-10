@@ -1,0 +1,1 @@
+import{j as a,e as t}from"./index-DgFWu8Hn.js";const n=({children:e,className:s})=>a.jsx("h2",{className:t("uppercase text-base font-semibold mb-2 text-gray-700",s),children:e}),o=({className:e,children:s})=>a.jsx("section",{className:t("px-6 py-7 bg-gray-200 min-h-screen",e),children:s});export{o as P,n as a};
