@@ -1,0 +1,1 @@
+import{j as s,e}from"./index-BNt31sZV.js";import{C as o}from"./card-iRF2p1kH.js";const n=({className:r,children:a})=>s.jsx(o,{className:e("overflow-hidden p-5 grid grid-cols-1",r),children:a}),c=({className:r,children:a})=>s.jsx("section",{className:e("px-6 py-7 bg-gray-200",r),children:a});export{c as P,n as a};
