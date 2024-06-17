@@ -1,0 +1,1 @@
+import{aa as e,j as s}from"./index-iIxFAzz8.js";const o=()=>{const{pathname:a}=e();return s.jsxs("div",{children:["CUstomer : ",s.jsx("span",{className:"capitalize",children:a.slice(1)})]})};export{o as default};
